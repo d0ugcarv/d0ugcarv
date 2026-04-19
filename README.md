@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ---
-
 <p div = "center">
   <img height="180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko>
   <img height="180em" src = https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko>
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=github-readme-stats)](https://github.com/d0ugcarv/github-readme-stats)
