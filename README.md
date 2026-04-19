@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 <p div = "center">
-  <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko>
-  <img src = https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko>
+  <img height="180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko>
+  <img height="180em" src = https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko>
 </p>
 
