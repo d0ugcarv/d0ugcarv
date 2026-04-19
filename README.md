@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img height="180em" src = https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=github-readme-stats)](https://github.com/d0ugcarv/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival)](https://github.com/d0ugcarv/Robot-Survival)
