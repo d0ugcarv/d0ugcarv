@@ -20,31 +20,90 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <!-- Sum of all stars in my repositories-->
-  <a href="https://github.com/d0ugcarv?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/d0ugcarv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/d0ugcarv?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/d0ugcarv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href=#>
-    <img alt="views" title="GitHub profile views" src="https://api.visitorbadge.io/api/VisitorHit?user=d0ugcarv&repo=github-visitors-badge&countColor=%237B1E7A&labelColor=6f1b6e&logo=eye"/></a>
+  <!--Sum of all stars in my repositories-->
+  <a href="https://github.com/d0ugcarv?tab=repositories&sort=stargazers" target="_blank">
+    <img 
+     alt="total stars" 
+     title="Total stars on GitHub" 
+     src="https://custom-icon-badges.demolab.com/github/stars/d0ugcarv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+     /></a>
+ <!--Number of followers on github-->
+ <a href="https://github.com/d0ugcarv?tab=followers" target="_blank">
+   <img 
+    alt="followers" 
+    title="Follow me on Github" 
+    src="https://custom-icon-badges.demolab.com/github/followers/d0ugcarv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+   /></a>
+ <!--Number of views on my profile-->
+ <a href="https://github.com/d0ugcarv" target="_blank">
+   <img 
+    alt="views" 
+    title="GitHub profile views" 
+    src="https://api.visitorbadge.io/api/VisitorHit?user=d0ugcarv&repo=github-visitors-badge&countColor=%237B1E7A&labelColor=6f1b6e&logo=eye"
+   /></a>
 </p>
 
----
+<hr/>
 
 ### Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="git" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
+ <!--Python-->
+ <a href="https://www.python.org" target="_blank">
+   <img 
+    alt="Python" 
+    height ="42px" 
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"
+   /></a>
+ <!--C language-->
+ <a href="https://www.c-language.org/" target="_blank">
+   <img 
+    alt="Python" 
+    height ="42px" 
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"
+   /></a>
+ <!--Java-->
+ <a href="https://www.java.com" target="_blank">
+   <img 
+    alt="Java" 
+    height ="42px" 
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"
+   /></a>
+ <!--Github-->
+ <a href="https://git-scm.com/" target="_blank">
+   <img 
+    alt="git" 
+    height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
+    /></a>
 </p>
 
----
+<hr/>
 
 <p align="center">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko>
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko>
+ <!--Top languages card-->
+ <img 
+  height="160em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
+ />
+ <!--Github stats card-->
+ <img 
+  height="160em" 
+  src="https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko"
+ />
+</p>
+
+<hr/>
+
+<!--Github extra pins-->
+<p align="center">
+ <!--Robot-Survival-->
+ <img 
+  height="140em" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
+ />
+ <!--ProjetoFinalDamas-->
+ <img 
+  height="140em" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
+ />
 </p>
