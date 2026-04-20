@@ -46,9 +46,9 @@ Here are some ideas to get you started:
    /></a>
 </p>
 
-<hr/>
 
-### Tools
+## 🛠️ Tools I Use
+
 
 <p align="center">
  <!--Python-->
@@ -93,7 +93,9 @@ Here are some ideas to get you started:
     /></a>
 </p>
 
-<hr/>
+
+## 📊 GitHub Stats
+
 
 <p align="center">
  <!--Top languages card-->
@@ -108,7 +110,9 @@ Here are some ideas to get you started:
  />
 </p>
 
-<hr/>
+
+## 📚 Projects
+
 
 <!--Github extra pins-->
 <p align="center">
@@ -116,14 +120,12 @@ Here are some ideas to get you started:
  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
   <img 
    width="360em"
-   height="260"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
   /></a>
  <!--ProjetoFinalDamas-->
  <a hrf="https://github.com/d0ugcarv/ProjetoFinalDamas" target="_blank">
   <img 
    width="360em"
-   height="260"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
   /></a>
 </p>
