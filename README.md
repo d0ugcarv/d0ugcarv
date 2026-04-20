@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
+<p align="center">
+ <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
+ <h3 align="center">Github Douglas Carvalho</h3>
+</p>
 
 <p align="center">
   <!-- Sum of all stars in my repositories-->
@@ -24,10 +26,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/d0ugcarv?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/d0ugcarv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href=#>
-    <img alt="views" title="GitHub profile views" src="https://api.visitorbadge.io/api/VisitorHit?user=d0ugcarv&repo=github-visitors-badge&countColor=%237B1E7A"/></a>
+    <img alt="views" title="GitHub profile views" src="https://api.visitorbadge.io/api/VisitorHit?user=d0ugcarv&repo=github-visitors-badge&countColor=%237B1E7A&labelColor=6f1b6e&logo=eye"/></a>
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/>
+  </a>
+</p>
+
+***
 
 <p align="center">
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko>
