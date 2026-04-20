@@ -99,13 +99,13 @@ Here are some ideas to get you started:
 
 <p align="center">
  <!--Top languages card-->
- <img 
-  height="160em" 
+ <img
+  width="340em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
  />
  <!--Github stats card-->
- <img 
-  height="160em" 
+ <img
+  width="380em"
   src="https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko"
  />
 </p>
@@ -119,13 +119,19 @@ Here are some ideas to get you started:
  <!--Robot-Survival-->
  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
   <img 
-   width="360em"
+   width="320em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
   /></a>
  <!--ProjetoFinalDamas-->
  <a hrf="https://github.com/d0ugcarv/ProjetoFinalDamas" target="_blank">
   <img 
-   width="360em"
+   width="320em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
   /></a>
+  <!--Robot-Survival-->
+  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
+   <img 
+    width="320em"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
+   /></a>
 </p>
