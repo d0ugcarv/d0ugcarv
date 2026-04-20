@@ -69,6 +69,19 @@ Here are some ideas to get you started:
     height ="42px" 
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"
    /></a>
+ <a href="https://godotengine.org/" target="_blank">
+  <img 
+   alt="Godot" 
+   height ="42px" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
+  /></a>
+ <!--Linux-->
+ <a href="https://www.linuxfoundation.org/" target="_blank">
+   <img 
+    alt="linux" 
+    height ="42px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+  /></a>
  <!--Github-->
  <a href="https://git-scm.com/" target="_blank">
    <img 
