@@ -1,26 +1,26 @@
- <h3 align="center">Github Douglas Carvalho👋</h3> 
-
-<!--
-**d0ugcarv/d0ugcarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Title-->
 <p align="center">
- <img width="150px" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Logo" />
+  <a href="https://github.com/d0ugcarv">
+   <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=400&color=a8ce00&size=35&center=true&vCenter=true&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B+;+I'm+Douglas+Carvalho!" 
+    alt="Karem Saad" 
+   /></a>
+</p>
+
+<!--Gif-->
+<p align="center">
+ <!--Github gif-->
+ <img 
+  width="150px" 
+  src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Logo"
+ />
+ <!--Codding gif-->
  <img 
   width="150px"
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNha2U1bjZvMmQxNmx2MXprbjlkbHA5OWVtMXZvdWFrZHEzZDZhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
  />
 </p>
+
 
 <p align="center">
   <!--Sum of all stars in my repositories-->
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Tools I Use
-
 
 <p align="center">
  <!--Python-->
@@ -96,7 +95,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
  <!--Top languages card-->
  <img
@@ -111,27 +109,22 @@ Here are some ideas to get you started:
 </p>
 
 
+<!--
 ## 📚 Projects
 
-
-<!--Github extra pins-->
+<!- -Github extra pins- ->
 <p align="center">
- <!--Robot-Survival-->
+ <!- -Robot-Survival- ->
  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
   <img 
    width="240em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
   /></a>
- <!--ProjetoFinalDamas-->
+ <!- -ProjetoFinalDamas- ->
  <a hrf="https://github.com/d0ugcarv/ProjetoFinalDamas" target="_blank">
   <img 
    width="240em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
   /></a>
-  <!--Robot-Survival-->
-  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
-   <img 
-     width="240em"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
-   /></a>
 </p>
+-->
