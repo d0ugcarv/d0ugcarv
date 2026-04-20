@@ -119,7 +119,7 @@ Here are some ideas to get you started:
  <!--Robot-Survival-->
  <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
   <img 
-   width="264em"
+   width="240em"
    src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
   /></a>
  <!--ProjetoFinalDamas-->
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
   <!--Robot-Survival-->
   <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
    <img 
-    width="240em"
+     width="240em"
     src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
    /></a>
 </p>
