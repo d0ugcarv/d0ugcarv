@@ -1,4 +1,4 @@
-## Hi there 👋
+ <h3 align="center">Github Douglas Carvalho👋</h3> 
 
 <!--
 **d0ugcarv/d0ugcarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
- <h3 align="center">Github Douglas Carvalho</h3>
+ <img width="150px" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Logo" />
+ <img 
+  width="150px"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNha2U1bjZvMmQxNmx2MXprbjlkbHA5OWVtMXZvdWFrZHEzZDZhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
+ />
 </p>
 
 <p align="center">
@@ -110,13 +113,17 @@ Here are some ideas to get you started:
 <!--Github extra pins-->
 <p align="center">
  <!--Robot-Survival-->
- <img 
-  height="140em" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
- />
+ <a hrf="https://github.com/d0ugcarv/Robot-Survival" target="_blank">
+  <img 
+   width="360em"
+   height="260"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=Robot-Survival&theme=merko"
+  /></a>
  <!--ProjetoFinalDamas-->
- <img 
-  height="140em" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
- />
+ <a hrf="https://github.com/d0ugcarv/ProjetoFinalDamas" target="_blank">
+  <img 
+   width="360em"
+   height="260"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=d0ugcarv&repo=ProjetoFinalDamas&theme=merko"
+  /></a>
 </p>
