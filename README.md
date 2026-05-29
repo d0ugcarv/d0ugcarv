@@ -96,7 +96,7 @@
  <!--Top languages card-->
  <img
   width="340em"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
+  src=[![Top Langs]"https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"](https://github.com/d0ugcarv/d0ugcarv/edit/main/README.md)
  />
  <!--Github stats card-->
  <img
