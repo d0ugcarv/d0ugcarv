@@ -80,13 +80,14 @@
     alt="linux" 
     height ="42px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-  /></a>
+   /></a>
  <!--Github-->
  <a href="https://git-scm.com/" target="_blank">
    <img 
     alt="git" 
-    height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
-    /></a>
+    height='42px' 
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
+   /></a>
 </p>
 
 
@@ -95,11 +96,13 @@
 <p align="center">
  <!--Top languages card-->
  <img
+  alt="Top languages card"
   width="340em"
-  src=[![Top Langs]"https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"](https://github.com/d0ugcarv/d0ugcarv/edit/main/README.md)
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
  />
  <!--Github stats card-->
  <img
+  alt="Github stats card"
   width="380em"
   src="https://github-readme-stats-fast.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko"
  />
