@@ -96,12 +96,12 @@
  <!--Top languages card-->
  <img
   width="340em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=d0ugcarv&layout=compact&theme=merko"
  />
  <!--Github stats card-->
  <img
   width="380em"
-  src="https://github-readme-stats.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko"
+  src="https://github-readme-stats-fast.vercel.app/api?username=d0ugcarv&show_icons=true&theme=merko"
  />
 </p>
 
